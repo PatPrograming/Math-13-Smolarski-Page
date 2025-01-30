@@ -18,7 +18,7 @@ This project involves recreating SCU professor Dennis Smolarski's Math 13 class 
   - Jemian: Class Content page
   - Patrick: About Professor page
   - Juan: Relevant Links page
-  - ??? : search results page
+  - Patrick : search results page
 - Functionality
   - Navbar dropdowns: Everyone
   - Dropdowns for each class week in relevant links page: Juan
