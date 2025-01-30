@@ -6,6 +6,6 @@
       }
     ],
     "redirects": [
-      { "source": "/", "destination": "/static", "permanent": false }
+      { "source": "/", "destination": "/static/index.html", "permanent": false }
     ]
   }
