@@ -2,6 +2,8 @@
   "name": "smolarski-page",
   "type": "module",
   "scripts": {
+    "start": "vercel dev",
+    "deploy": "vercel",
     "dev": "tsx watch src/index.ts"
   },
   "dependencies": {
@@ -10,6 +12,7 @@
   },
   "devDependencies": {
     "@types/node": "^20.11.17",
-    "tsx": "^4.7.1"
+    "tsx": "^4.7.1",
+    "vercel": "^32.4.1"
   }
 }
