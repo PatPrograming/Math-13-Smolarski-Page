@@ -10,7 +10,8 @@ This project involves recreating SCU professor Dennis Smolarski's Math 13 class 
 - Patrick Zhang
 - Juan Rubio-Lamas
 
-## Website: [Math 13 Smolarski Page](https://webpages.scu.edu/ftp/dsmolarski/ma13homepage.html)
+## Original Website: [Math 13 Smolarski Page](https://webpages.scu.edu/ftp/dsmolarski/ma13homepage.html)
+## New Website: [Math 13 Smolarski Page New](https://math-13-smolarski-page.vercel.app/static/index.html)
 - [Proposal Link](https://docs.google.com/document/d/1mGE4HxwaH6IPS73wPiVTrOiQE-Mq0VHHUR1xKFj_E8Q/edit?usp=sharing)
 - Web Technologies: HTML/CSS/JS
 - Webpage assignment
